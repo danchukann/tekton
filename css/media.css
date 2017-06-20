@@ -1,0 +1,525 @@
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1440px) {
+	.project-block > img{
+		width: 80%;
+	}
+	.lvov-project-block h3{
+		top: 70%;
+		margin-left: -68px;
+	}
+	.prague-project-block h3{
+		top: 77%;
+		margin-left: -68px;
+	}
+	.ametist-project-block h3{
+		top: 60%;
+		margin-left: -68px;
+	}
+	.europe-project-block h3{
+		top: 70%;
+		margin-left: -68px;
+	}
+	.footer-contact p,
+	.footer-contact h2{
+		margin-left: 50px;
+	}
+	.footer-address p,
+	.footer-address h2{
+		margin-left: 0px;
+	}
+	.footer-contact p:nth-child(3){
+		margin-left: 85px;
+	}
+	.team-foto{
+		left: 25px;
+	}
+	.team .title hr{
+		margin-left: -30px;
+	}
+	.news .slick-prev{
+	    left: 665px;
+	}
+	.team-text{
+		margin-left: 25px;
+	}
+	.show-block-lvov p{
+		margin-bottom: 160px;
+		}
+	.show-block-prague p{
+		margin-bottom: 110px;
+	}
+	.show-block-ametist p{
+		margin-bottom: 240px;
+	}
+	.show-block-europe p{
+		margin-bottom: 165px;
+	}
+	.lvov-project-block:hover h3{
+		top: 50%;
+	}
+	.prague-project-block:hover h3{
+		top: 58%;
+	}
+	.ametist-project-block:hover h3{
+		top: 40%;
+	}
+	.europe-project-block:hover h3{
+		top: 50%;
+	}
+}
+@media only screen and (max-width : 1366px) {
+	.team-foto{
+		left: 13px;
+	}
+	.news .slick-prev{
+	    left: 600px;
+	}
+	.lvov-project-block h3{
+		top: 65%;
+	}
+	.prague-project-block h3{
+		top: 72%;
+	}
+	.ametist-project-block h3{
+		top: 55%;
+	}
+	.europe-project-block h3{
+		top: 65%;
+	}
+	.show-block-lvov p{
+		margin-bottom: 180px;
+		}
+	.show-block-prague p{
+		margin-bottom: 130px;
+	}
+	.show-block-ametist p{
+		margin-bottom: 250px;
+	}
+	.show-block-europe p{
+		margin-bottom: 180px;
+	}
+	.lvov-project-block:hover h3{
+		top: 50%;
+	}
+	.prague-project-block:hover h3{
+		top: 56%;
+	}
+	.ametist-project-block:hover h3{
+		top: 40%;
+	}
+	.europe-project-block:hover h3{
+		top: 50%;
+	}
+}
+@media only screen and (max-width : 1024px){
+	.header h1{
+		margin-top: 50px;
+	}
+	.header p{
+		margin-top: 20px;
+		margin-bottom: 40px;
+	}
+	.project-block > img{
+		width: auto;
+		margin-left: 30%;
+	}
+	.project-block button{
+		margin-left: 25%;
+	}
+	.lvov-project-block h3{
+		top: 75%;
+		margin-left: -60px;
+	}
+	.prague-project-block h3{
+		top: 82%;
+		margin-left: -60px;
+	}
+	.ametist-project-block h3{
+		top: 60%;
+		margin-left: -50px;
+	}
+	.europe-project-block h3{
+		top: 75%;
+		margin-left: -60px;
+	}
+	.about-description{
+		margin-bottom: 50px;
+	}
+	.bg-img-1{
+		left: 60%;
+	}
+	.bg-img-2{
+		left: 55%;
+	}
+	.about-img h3,
+	.about-img span{
+		left: 60%;
+	}
+	.about-text p{
+		margin-top: 50px;
+	}
+	.can h2{
+		margin-top: 20px;
+	}
+	.team-foto{
+		left: 57px;
+	}
+	.news .slick-prev{
+	    left: 830px;
+	}
+	.footer-contact,
+	.footer-address,
+	.footer-social{
+		margin: 0 auto;
+		max-width: 300px;
+		border: 1px solid transparent;
+		text-align: center;
+	}
+	.social{
+		margin-left: 0px;
+		margin-bottom: 50px;
+	}
+	.footer-contact p,
+	.footer-contact h2{
+		margin-left: 0px;
+	}
+	.footer-address p,
+	.footer-address h2{
+		margin-left: 0px;
+	}
+	.footer-contact p:nth-child(3){
+		margin-left: 35px;
+	}
+	.show-block-lvov p{
+		margin-bottom: 100px;
+		margin-left: -50px;
+		}
+	.show-block-prague p{
+		margin-bottom: 20px;
+		margin-left: -50px;
+	}
+	.show-block-ametist p{
+		margin-bottom: 200px;
+		margin-left: -50px;
+	}
+	.show-block-europe p{
+		margin-bottom: 80px;
+		margin-left: -50px;
+	}
+	.lvov-project-block:hover h3{
+		top: 60%;
+		margin-left: -50px;
+	}
+	.prague-project-block:hover h3{
+		top: 70%;
+		margin-left: -50px;
+	}
+	.ametist-project-block:hover h3{
+		top: 45%;
+		margin-left: -50px;
+	}
+	.europe-project-block:hover h3{
+		top: 60%;
+		margin-left: -50px;
+	}
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.nav>li>a {
+		padding: 10px 5px;
+	}
+	.project-block > img{
+		width: auto;
+		margin-left: 20%;
+	}
+	.project-block button{
+		margin-left: 13%;
+	}
+	.adv-item:last-child{
+		margin-bottom: 30px;
+	}
+	.can h2{
+		font-size: 30px;
+	}
+	.can ul li{
+		font-size: 20px;
+	}
+	.footer-contact p,
+	.footer-contact h2{
+		margin-left: 0px;
+	}
+	.footer-contact p:nth-child(3){
+		margin-left: 35px;
+	}
+	.footer-contact,
+	.footer-address,
+	.footer-social{
+		max-width: 320px;
+		display: block;
+		margin: 0px auto;
+		text-align: center;
+	}
+	.team-foto{
+		left: 8px;
+	}
+	.news .slick-prev{
+	    left: 600px;
+	}
+}
+@media only screen and (max-width : 736px) {
+	
+}
+@media only screen and (max-width : 640px) {
+	
+		
+}
+@media only screen and (max-width : 568px) {
+	
+
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 425px) {
+	.navbar{
+		background-color: #f9f9f9;
+	}
+	.header h1{
+		font-size: 26px;
+		line-height: 40px;
+		width: 100%;
+		margin-top: 0px;
+		padding-top: 0;
+	}
+	.about h2,
+	.about p,
+	.team-description h2,
+	.team-description p,
+	.news h2,
+	.contact h2{
+		margin-left: 0;
+	}
+	.bg-img-1{
+		left: 30%;
+	}
+	.bg-img-2{
+		left: 25%;
+	}
+	.about-img h3,
+	.about-img span{
+		left: 40%;
+	}
+	.can{
+		background-image: none;
+		background-color: #2a2a2a;
+	}
+	.can h2{
+		font-size: 26px;
+		line-height: 30px;
+	}
+	.can ul li{
+		line-height: 32px;
+	}
+	.team-foto{
+		left: 90px;
+	}
+	.news .slick-prev{
+	    left: 300px;
+	}
+	.news-slider{
+		margin-top: 100px;
+	}
+	.lvov-project-block h3,
+	.prague-project-block h3,
+	.ametist-project-block h3,
+	.europe-project-block h3{
+		margin-left: -70px;
+	}
+	.show-block-lvov p,
+	.show-block-prague p,
+	.show-block-ametist p,
+	.show-block-europe p{
+		margin-left: -70px;
+	}
+	.lvov-project-block:hover h3,
+	.prague-project-block:hover h3,
+	.ametist-project-block:hover h3,
+	.europe-project-block:hover h3{
+		margin-left: -70px;
+	}
+	
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 375px) {
+	.about .bg-img{
+		width: 95%;
+	}
+	.bg-img-1{
+		top: 55px;
+	}
+	.bg-img-2{
+		top: 70px;
+	}
+	.about-img h3{
+		top: 120px;
+	}
+	.about-img span{
+		top: 280px;
+	}
+	.team-foto{
+		left: 60px;
+	}
+	.news .slick-prev{
+	    left: 250px;
+	}
+	.about h2,
+	.team h2,
+	.news h2,
+	.contact h2{
+		font-size: 26px;
+		line-height: 30px;
+	}
+	.about p,
+	.team-description p{
+		font-size: 22px;
+		line-height: 28px;
+	}
+	.lvov-project-block h3,
+	.prague-project-block h3,
+	.ametist-project-block h3,
+	.europe-project-block h3{
+		margin-left: -60px;
+	}
+	.show-block-lvov p,
+	.show-block-prague p,
+	.show-block-ametist p,
+	.show-block-europe p{
+		margin-left: -60px;
+	}
+	.lvov-project-block:hover h3,
+	.prague-project-block:hover h3,
+	.ametist-project-block:hover h3,
+	.europe-project-block:hover h3{
+		margin-left: -60px;
+	}
+	
+
+}
+
+@media only screen and (max-width : 320px) {
+	.header h1{
+		margin-left: 0;
+		font-size: 22px;
+		line-height: 28px;
+	}
+	.header p{
+		font-size: 18px;
+		margin-left: 0;
+	}
+	.bg-img-1{
+		height: 60%;
+		top: 50px;
+	}
+	.bg-img-2{
+		height: 60%;
+		top: 70px;
+	}
+	.project-block > img{
+		width: 75%;
+		margin-left: 57px;
+	}
+	.about-description h2{
+		font-size: 26px;
+	}
+	.about-description p{
+		font-size: 22px;
+	}
+	.bg-img-1{
+		left: 50%;
+	}
+	.bg-img-2{
+		left: 45%;
+	}
+	.about-img h3 b{
+		font-size: 80px;
+		top: 0;
+	}
+	.about-img h3{
+		font-size: 70px;
+		top: 80px;
+		left: 55%;
+	}
+	.about-img span{
+		font-size: 36px;
+		top: 230px;
+		left: 55%;
+	}
+	.team-foto{
+		left: 40px;
+	}
+	.news .slick-prev{
+	    left: 200px;
+	}
+	.about p,
+	.team-description p{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.footer-contact,
+	.footer-address,
+	.footer-social{
+		max-width: 300px;
+	}
+	.footer-address p{
+		font-size: 18px;
+	}
+	.lvov-project-block h3,
+	.prague-project-block h3,
+	.ametist-project-block h3,
+	.europe-project-block h3{
+		margin-left: -45px;
+	}
+	.show-block-lvov p,
+	.show-block-prague p,
+	.show-block-ametist p,
+	.show-block-europe p{
+		font-size: 14px;
+		margin-left: -45px;
+	}
+	.lvov-project-block:hover h3,
+	.prague-project-block:hover h3,
+	.ametist-project-block:hover h3,
+	.europe-project-block:hover h3{
+		margin-left: -45px;
+	}
+	.show-block-lvov p{
+		margin-bottom: 120px;
+	}
+	.show-block-prague p{
+		margin-bottom: 30px;
+	}
+	.show-block-ametist p{
+		margin-bottom: 210px;
+	}
+	.show-block-europe p{
+		margin-bottom: 90px;
+	}
+	.lvov-project-block:hover h3{
+		top: 62%;
+	}
+	.prague-project-block:hover h3{
+		top: 75%;
+	}
+	.ametist-project-block:hover h3{
+		top: 50%;
+	}
+	.europe-project-block:hover h3{
+		top: 62%;
+	}
+	
+	
+}
